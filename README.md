@@ -1,2 +1,2 @@
 # TakingItCasual.github.io
-test
+Various tests to get familiar with how the HTML5 canvas works
