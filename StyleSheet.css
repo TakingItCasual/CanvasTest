@@ -1,0 +1,12 @@
+﻿#outer{
+  width: 100%;
+  text-align: center;
+}
+#inner{
+  display: inline-block;
+}
+
+.navButton{
+    width:250px;
+    height:auto;
+}
